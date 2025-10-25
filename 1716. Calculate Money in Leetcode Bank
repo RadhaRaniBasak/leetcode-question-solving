@@ -1,0 +1,12 @@
+class Solution {
+    public int totalMoney(int n) {
+        int remainingDayOfWeekExceptMonday = n / 7;
+        int monday = n % 7;
+
+        int sum = ( remainingDayOfWeekExceptMonday * (2 * 28 + (remainingDayOfWeekExceptMonday - 1) * 7)) / 2;
+        sum += (monday * (2 * (remainingDayOfWeekExceptMonday + 1) + (monday - 1) * 1)) / 2;
+
+        return sum;
+        
+    }
+}
