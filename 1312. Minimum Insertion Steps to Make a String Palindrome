@@ -1,0 +1,41 @@
+class Solution {
+    int f(int idx1, int idx2, String a, String b, int[][] dp) {
+        int n = a.length();
+        if (idx1 >= n || idx2 >= n) {
+            return 0;
+        }
+        if (dp[idx1][idx2] != -1) {
+            return dp[idx1][idx2];
+        }
+        int ans = 0;
+        if (a.charAt(idx1) == b.charAt(idx2)) {
+            ans = Math.max(ans, f(idx1 + 1, idx2 + 1, a, b, dp) + 1);
+        } else {
+            ans = Math.max(ans, f(idx1 + 1, idx2, a, b, dp));
+            ans = Math.max(ans, f(idx1, idx2 + 1, a, b, dp));
+        }
+        return dp[idx1][idx2] = ans;
+    }
+
+    int solve(String s) {
+        StringBuilder sb = new StringBuilder(s);
+        String r = sb.reverse().toString();
+        int n = r.length();
+        int[][] dp = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(dp[i], -1);
+        }
+        return s.length() - f(0, 0, s, r, dp);
+    }
+
+    public int minInsertions(String s) {
+        Callable<Integer> callable = ()->solve(s);
+        FutureTask<Integer> future = new FutureTask<>(callable);
+        new Thread(future).start();
+        try {
+            return future.get();
+        } catch (Exception e) {
+            return 0;
+        }
+    }
+}
