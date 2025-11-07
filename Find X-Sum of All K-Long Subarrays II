@@ -1,0 +1,178 @@
+class Solution {
+	private static class Group {
+		int count;
+		int[] ranks;
+		final int value;
+		int maxCount;
+		Group next;
+
+		Group(int value) {
+			this.value = value;
+		}
+
+		void incAndUpdateMax() {
+			if (++count > maxCount)
+				maxCount = count;
+		}
+
+		int initRanks() {
+			ranks = new int[maxCount + 1];
+			ranks[0] = -1;
+			return maxCount;
+		}
+
+		int getRank() {
+			return ranks[count];
+		}
+	}
+
+	private static class Ranker {
+		final int rankEnd;
+		final long[] rankToSum;
+		final int[] initialRanks; 
+
+		Ranker(Map<Integer, Group> valToGroup, int igCount) {
+			int n = valToGroup.size();
+			int[] values = new int[n];
+			int i = 0;
+			for (int val : valToGroup.keySet())
+				values[i++] = val;
+			Arrays.sort(values);
+			Group head = new Group(0);
+			Group tail = head;
+			int rank = 0;
+			for (i = 0; i < n; i++) {
+				tail = tail.next = valToGroup.get(values[i]);
+				rank += tail.initRanks();
+			}
+			rankEnd = rank;
+			rankToSum = new long[rank + 1];
+			initialRanks = new int[igCount];
+			Group g;
+			for (int level = 1; (g = head.next) != null; level++) {
+				tail = head;
+				do {
+					g.ranks[level] = --rank;
+					rankToSum[rank] = (long) level * g.value;
+					
+					if (g.count == level)
+						initialRanks[--igCount] = rank;
+					if (level < g.maxCount)
+						tail = tail.next = g;
+				} while ((g = g.next) != null);
+				tail.next = null;
+			}
+		}
+	}
+
+	private static class FastXSummator {
+		final int n;
+		final int[] ps;
+		final long[] rankToSum; 
+		long xSum;
+		int xRank;
+		final int x;
+		int total; 
+
+		FastXSummator(Ranker ranker, int x) {
+			n = ranker.rankEnd;
+			ps = new int[n];
+			rankToSum = ranker.rankToSum;
+			int[] initialRanks = ranker.initialRanks;
+			int k = initialRanks.length;
+			for (int i = 0; i < k; i++) {
+				int r = initialRanks[i];
+				change(r, 1);
+				if (i < x)
+					xSum += rankToSum[r];
+			}
+			xRank = k >= x ? initialRanks[x - 1] : n;
+			this.x = x;
+		}
+
+		private void change(int index, int delta) {
+			do
+				ps[index] += delta;
+			while ((index |= index + 1) < n);
+			total += delta;
+		}
+
+		private int getSum(int last) {
+			int sum = 0;
+			do
+				sum += ps[last];
+			while ((last = ((last + 1) & last) - 1) >= 0);
+			return sum;
+		}
+
+		private int search(int sum) {
+			int left = -1;
+			int right = n - 1;
+			while (true) {
+				int mid = (left + right) >> 1;
+				if (mid == left)
+					return right;
+				if (getSum(mid) < sum)
+					left = mid;
+				else
+					right = mid;
+			}
+		}
+
+		private void updateXRank() {
+			xRank = total >= x ? search(x) : n;
+		}
+
+		void changeCount(Group g, int delta) {
+			int r = g.getRank();
+			if (r >= 0) { 
+				change(r, -1);
+				if (r <= xRank) {
+					updateXRank();
+					xSum -= rankToSum[r] - rankToSum[xRank];
+				}
+			}
+			g.count += delta;
+			r = g.getRank();
+			if (r >= 0) {
+				change(r, 1);
+				if (r < xRank) {
+					xSum += rankToSum[r] - rankToSum[xRank];
+					updateXRank();
+				}
+			}
+		}
+	}
+
+	public static long[] findXSum(int[] nums, int k, int x) {
+		int n = nums.length;
+		Group[] iGroup = new Group[n];
+		Map<Integer, Group> valToGroup = new HashMap<>();
+		for (int i = 0; i < k; i++)
+			(iGroup[i] = valToGroup.computeIfAbsent(nums[i], Group::new)).incAndUpdateMax();
+		int igCount = valToGroup.size(); 
+		for (int i = k; i < n; i++) {
+			iGroup[i - k].count--;
+			(iGroup[i] = valToGroup.computeIfAbsent(nums[i], Group::new)).incAndUpdateMax();
+		}
+
+		for (Group g : valToGroup.values())
+			g.count = 0;
+		for (int i = 0; i < k; i++)
+			iGroup[i].count++;
+		FastXSummator fxs = new FastXSummator(new Ranker(valToGroup, igCount), x);
+		n -= k;
+		long[] answer = new long[n + 1];
+		for (int i = 0; i < n; i++) {
+			answer[i] = fxs.xSum;
+			Group gb = iGroup[i];
+			Group ge = iGroup[i + k];
+			if (gb != ge) {
+				fxs.changeCount(gb, -1);
+				fxs.changeCount(ge, 1);
+			}
+		}
+		answer[n] = fxs.xSum;
+		return answer;
+	}
+}
