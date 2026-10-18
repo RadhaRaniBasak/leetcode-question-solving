@@ -15,6 +15,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0678-valid-parenthesis-string) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -71,4 +73,40 @@
 |  |
 | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+## Math
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
