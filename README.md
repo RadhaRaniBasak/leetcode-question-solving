@@ -10,6 +10,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
