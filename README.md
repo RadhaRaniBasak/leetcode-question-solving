@@ -65,6 +65,7 @@
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -98,6 +99,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
