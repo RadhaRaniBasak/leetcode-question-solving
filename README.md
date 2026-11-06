@@ -11,6 +11,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2409-count-days-spent-together](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -116,10 +118,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -152,13 +156,16 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
@@ -182,4 +189,8 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
