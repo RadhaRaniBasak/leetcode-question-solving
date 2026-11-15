@@ -19,6 +19,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3665-twisted-mirror-path-count) |
@@ -62,6 +63,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1882-process-tasks-using-servers) |
@@ -114,6 +116,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -207,4 +210,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
