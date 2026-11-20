@@ -52,6 +52,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
@@ -70,6 +71,7 @@
 | [1882-process-tasks-using-servers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -94,6 +96,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
