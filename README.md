@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1021-remove-outermost-parentheses) |
@@ -44,6 +47,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1021-remove-outermost-parentheses) |
