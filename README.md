@@ -84,6 +84,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3665-twisted-mirror-path-count) |
@@ -137,6 +138,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -179,6 +181,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
@@ -213,6 +216,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2747-count-zero-request-servers](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
 |  |
@@ -252,4 +256,8 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/0025-reverse-nodes-in-k-group) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RadhaRaniBasak/leetcode-question-solving/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
